@@ -1,0 +1,8 @@
+{
+  "name": "Air-Land-Water Battles",
+  "description": "Design, arm, and command land vehicles, naval warships, and combat aircraft in combined arms warfare across unified land and sea battlefields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
